@@ -2,6 +2,7 @@
 用爬虫和echarts工具实现疫情地图的显示，地图包括全国地图和分省地图
 
 1、安装pyecharts以及相关的包
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  pyecharts==1.7.1
 
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  echarts-countries-pypkg
