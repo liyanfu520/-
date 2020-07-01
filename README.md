@@ -3,12 +3,19 @@
 
 1、安装pyecharts以及相关的包
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  pyecharts==1.7.1
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  echarts-countries-pypkg
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  echarts-china-provinces-pypkg
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  echarts-china-cities-pypkg
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  echarts-china-counties-pypkg
+
 pip install  -i https://pypi.tuna.tsinghua.edu.cn/simple echarts-china-misc-pypkg
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  echarts-united-kingdom-pypkg
+
 
 2、如果顺利的话，程序可以直接运行成功，运行结果包括全国疫情地图和分省疫情地图
 
